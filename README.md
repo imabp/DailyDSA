@@ -1,1 +1,1 @@
-# DailyDSA
+<img src="./banner.png">
